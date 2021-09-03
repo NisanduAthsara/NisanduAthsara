@@ -1,4 +1,3 @@
-👋 Hey there! 
 
 - 👋 Hi, I’m @NisanduAthsara
 - 👀 I’m interested in Web developing and programming.
