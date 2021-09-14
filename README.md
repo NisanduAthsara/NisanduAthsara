@@ -1,10 +1,20 @@
 
-- 👋 Hi, I’m @NisanduAthsara
-- 👀 I’m interested in Web developing and programming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m 1st runnerup of the BITS'21 ...
-- 📫 I can python , html and css.
+# Hello, Guys! I'm Nisandu Athsara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p><b>I'm currently learing in Ananda College... I'm a young programmer and also a web developer.</b></p><br>
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
+![NisanduAthsara's github stats](https://github-readme-stats.vercel.app/api?username=NisanduAthsara)
+
+
+
+<br><br><h1>Languages I Know</h1>
+<ul>
+  <li><b>Python</b></li>
+  <li><b>C</b></li>
+  <li><b>C++</b></li>
+  <li><b>CSS</b></li>
+  <li><b>HTML</b></li>
+</ul>
 <!---
 NisanduAthsara/NisanduAthsara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
