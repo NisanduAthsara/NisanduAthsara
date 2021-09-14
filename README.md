@@ -1,6 +1,6 @@
 
 # Hello, Guys! I'm Nisandu Athsara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p><b>I'm currently learing in Ananda College... I'm a young programmer and also a web developer.</b></p><br>
+<p><b>I'm currently learning in Ananda College... I'm a young programmer and also a web developer.</b></p><br>
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
 ![NisanduAthsara's github stats](https://github-readme-stats.vercel.app/api?username=NisanduAthsara)
