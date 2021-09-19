@@ -3,9 +3,7 @@
 <p><b>I'm currently learning in Ananda College... I'm a young programmer and also a web developer.</b></p><br>
 <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
 
-
-
-<br><br><h1>Languages I Know</h1>
+<br><h1>Languages I Know</h1>
 <ul>
   <li><b>Python</b></li>
   <li><b>C</b></li>
