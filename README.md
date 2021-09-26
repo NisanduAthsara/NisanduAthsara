@@ -10,6 +10,7 @@
   <li><b>C++</b></li>
   <li><b>CSS</b></li>
   <li><b>HTML</b></li>
+  <li><b>JavaScript</b></li>
 </ul>
 <!---
 NisanduAthsara/NisanduAthsara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
