@@ -23,6 +23,8 @@
 ## 🔨 Top Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisanduAthsara&repo=Student-Management-System&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/NisanduAthsara/Student-Management-System)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisanduAthsara&repo=User-Management-System&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](https://github.com/NisanduAthsara/User-Management-System)
 <!---
 NisanduAthsara/NisanduAthsara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
